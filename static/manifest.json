@@ -1,0 +1,10 @@
+{
+  "id": "simpleUsersCRUD",
+  "version": "0.0.1",
+  "name": "SimpleUsers",
+  "author": "Cybercom",
+  "description": "A RESTApp for CRUDing SimpleUsers",
+  "helpUrl": "",
+  "type": "RESTApp",
+  "requirePrivileged": true
+}

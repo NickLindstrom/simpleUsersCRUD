@@ -1,0 +1,7 @@
+{
+  "domain": "websiteWithoutHTTP",
+  "siteName": "siteName",
+  "addonName": "simpleUsersCRUD",
+  "username": "userName@webDomain.se",
+  "password": "password"
+}
